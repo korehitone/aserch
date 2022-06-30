@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akna</h1>
+
 <h3 align="center">be creator, don't be trickster</h3>
 
 - ⚡ Fun fact **- - ? ...**
