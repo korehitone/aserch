@@ -1,7 +1,5 @@
 
-<h3 align="center">be creator, don't be trickster</h3>
-
-- ⚡ Fun fact **- - ? ...**
+<h3 align="center">...</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
